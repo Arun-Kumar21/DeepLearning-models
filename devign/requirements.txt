@@ -1,0 +1,8 @@
+torch 
+torchvision
+torch_geometric
+torch_scatter 
+torch_sparse -f https://data.pyg.org/whl/torch-2.1.0+cpu.html
+gensim 
+networkx 
+tqdm
